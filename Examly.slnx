@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="Examly.Api/Examly.Api.csproj" />
+  <Project Path="Examly.Application/Examly.Application.csproj" />
+  <Project Path="Examly.Core/Examly.Core.csproj" />
+  <Project Path="Examly.Domain/Examly.Domain.csproj" />
+  <Project Path="Examly.Infrastructure/Examly.Infrastructure.csproj" />
+</Solution>
